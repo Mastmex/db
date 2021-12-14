@@ -1,0 +1,1 @@
+INSERT INTO training_place VALUES('5134784','France-speeder','4');

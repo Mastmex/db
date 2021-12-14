@@ -1,0 +1,12 @@
+INSERT INTO parts (part_type,car_num) VALUES ('Front wing','66');
+INSERT INTO parts (part_type,car_num) VALUES ('Back wing','66');
+INSERT INTO parts (part_type,car_num) VALUES ('Engine','66');
+INSERT INTO parts (part_type,car_num) VALUES ('Gear box','66');
+INSERT INTO parts (part_type,car_num) VALUES ('Suspension','66');
+INSERT INTO parts (part_type,car_num) VALUES ('Body','66');
+INSERT INTO parts (part_type,car_num) VALUES ('Front wing','15');
+INSERT INTO parts (part_type,car_num) VALUES ('Back wing','15');
+INSERT INTO parts (part_type,car_num) VALUES ('Engine','15');
+INSERT INTO parts (part_type,car_num) VALUES ('Gear box','15');
+INSERT INTO parts (part_type,car_num) VALUES ('Suspension','15');
+INSERT INTO parts (part_type,car_num) VALUES ('Body','15');
